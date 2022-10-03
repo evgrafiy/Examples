@@ -1,0 +1,15 @@
+G:\•Р•А•Б•О•Т•А•\• A • M • i • C • O •-\!_ОБУЧЕНИЕ\Знакомство с языками программирования (лекции)\Файлы\Examples\Examples-03_Sum\bin\Debug\net6.0\Examples-03_Sum.exe
+G:\•Р•А•Б•О•Т•А•\• A • M • i • C • O •-\!_ОБУЧЕНИЕ\Знакомство с языками программирования (лекции)\Файлы\Examples\Examples-03_Sum\bin\Debug\net6.0\Examples-03_Sum.deps.json
+G:\•Р•А•Б•О•Т•А•\• A • M • i • C • O •-\!_ОБУЧЕНИЕ\Знакомство с языками программирования (лекции)\Файлы\Examples\Examples-03_Sum\bin\Debug\net6.0\Examples-03_Sum.runtimeconfig.json
+G:\•Р•А•Б•О•Т•А•\• A • M • i • C • O •-\!_ОБУЧЕНИЕ\Знакомство с языками программирования (лекции)\Файлы\Examples\Examples-03_Sum\bin\Debug\net6.0\Examples-03_Sum.dll
+G:\•Р•А•Б•О•Т•А•\• A • M • i • C • O •-\!_ОБУЧЕНИЕ\Знакомство с языками программирования (лекции)\Файлы\Examples\Examples-03_Sum\bin\Debug\net6.0\Examples-03_Sum.pdb
+G:\•Р•А•Б•О•Т•А•\• A • M • i • C • O •-\!_ОБУЧЕНИЕ\Знакомство с языками программирования (лекции)\Файлы\Examples\Examples-03_Sum\obj\Debug\net6.0\Examples-03_Sum.csproj.AssemblyReference.cache
+G:\•Р•А•Б•О•Т•А•\• A • M • i • C • O •-\!_ОБУЧЕНИЕ\Знакомство с языками программирования (лекции)\Файлы\Examples\Examples-03_Sum\obj\Debug\net6.0\Examples-03_Sum.GeneratedMSBuildEditorConfig.editorconfig
+G:\•Р•А•Б•О•Т•А•\• A • M • i • C • O •-\!_ОБУЧЕНИЕ\Знакомство с языками программирования (лекции)\Файлы\Examples\Examples-03_Sum\obj\Debug\net6.0\Examples-03_Sum.AssemblyInfoInputs.cache
+G:\•Р•А•Б•О•Т•А•\• A • M • i • C • O •-\!_ОБУЧЕНИЕ\Знакомство с языками программирования (лекции)\Файлы\Examples\Examples-03_Sum\obj\Debug\net6.0\Examples-03_Sum.AssemblyInfo.cs
+G:\•Р•А•Б•О•Т•А•\• A • M • i • C • O •-\!_ОБУЧЕНИЕ\Знакомство с языками программирования (лекции)\Файлы\Examples\Examples-03_Sum\obj\Debug\net6.0\Examples-03_Sum.csproj.CoreCompileInputs.cache
+G:\•Р•А•Б•О•Т•А•\• A • M • i • C • O •-\!_ОБУЧЕНИЕ\Знакомство с языками программирования (лекции)\Файлы\Examples\Examples-03_Sum\obj\Debug\net6.0\Examples-03_Sum.dll
+G:\•Р•А•Б•О•Т•А•\• A • M • i • C • O •-\!_ОБУЧЕНИЕ\Знакомство с языками программирования (лекции)\Файлы\Examples\Examples-03_Sum\obj\Debug\net6.0\refint\Examples-03_Sum.dll
+G:\•Р•А•Б•О•Т•А•\• A • M • i • C • O •-\!_ОБУЧЕНИЕ\Знакомство с языками программирования (лекции)\Файлы\Examples\Examples-03_Sum\obj\Debug\net6.0\Examples-03_Sum.pdb
+G:\•Р•А•Б•О•Т•А•\• A • M • i • C • O •-\!_ОБУЧЕНИЕ\Знакомство с языками программирования (лекции)\Файлы\Examples\Examples-03_Sum\obj\Debug\net6.0\Examples-03_Sum.genruntimeconfig.cache
+G:\•Р•А•Б•О•Т•А•\• A • M • i • C • O •-\!_ОБУЧЕНИЕ\Знакомство с языками программирования (лекции)\Файлы\Examples\Examples-03_Sum\obj\Debug\net6.0\ref\Examples-03_Sum.dll
