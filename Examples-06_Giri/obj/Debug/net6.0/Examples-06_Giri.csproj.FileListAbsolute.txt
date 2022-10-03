@@ -1,0 +1,15 @@
+G:\•Р•А•Б•О•Т•А•\• A • M • i • C • O •-\!_ОБУЧЕНИЕ\Знакомство с языками программирования (лекции)\Файлы\Examples\Examples-06_Giri\bin\Debug\net6.0\Examples-06_Giri.exe
+G:\•Р•А•Б•О•Т•А•\• A • M • i • C • O •-\!_ОБУЧЕНИЕ\Знакомство с языками программирования (лекции)\Файлы\Examples\Examples-06_Giri\bin\Debug\net6.0\Examples-06_Giri.deps.json
+G:\•Р•А•Б•О•Т•А•\• A • M • i • C • O •-\!_ОБУЧЕНИЕ\Знакомство с языками программирования (лекции)\Файлы\Examples\Examples-06_Giri\bin\Debug\net6.0\Examples-06_Giri.runtimeconfig.json
+G:\•Р•А•Б•О•Т•А•\• A • M • i • C • O •-\!_ОБУЧЕНИЕ\Знакомство с языками программирования (лекции)\Файлы\Examples\Examples-06_Giri\bin\Debug\net6.0\Examples-06_Giri.dll
+G:\•Р•А•Б•О•Т•А•\• A • M • i • C • O •-\!_ОБУЧЕНИЕ\Знакомство с языками программирования (лекции)\Файлы\Examples\Examples-06_Giri\bin\Debug\net6.0\Examples-06_Giri.pdb
+G:\•Р•А•Б•О•Т•А•\• A • M • i • C • O •-\!_ОБУЧЕНИЕ\Знакомство с языками программирования (лекции)\Файлы\Examples\Examples-06_Giri\obj\Debug\net6.0\Examples-06_Giri.csproj.AssemblyReference.cache
+G:\•Р•А•Б•О•Т•А•\• A • M • i • C • O •-\!_ОБУЧЕНИЕ\Знакомство с языками программирования (лекции)\Файлы\Examples\Examples-06_Giri\obj\Debug\net6.0\Examples-06_Giri.GeneratedMSBuildEditorConfig.editorconfig
+G:\•Р•А•Б•О•Т•А•\• A • M • i • C • O •-\!_ОБУЧЕНИЕ\Знакомство с языками программирования (лекции)\Файлы\Examples\Examples-06_Giri\obj\Debug\net6.0\Examples-06_Giri.AssemblyInfoInputs.cache
+G:\•Р•А•Б•О•Т•А•\• A • M • i • C • O •-\!_ОБУЧЕНИЕ\Знакомство с языками программирования (лекции)\Файлы\Examples\Examples-06_Giri\obj\Debug\net6.0\Examples-06_Giri.AssemblyInfo.cs
+G:\•Р•А•Б•О•Т•А•\• A • M • i • C • O •-\!_ОБУЧЕНИЕ\Знакомство с языками программирования (лекции)\Файлы\Examples\Examples-06_Giri\obj\Debug\net6.0\Examples-06_Giri.csproj.CoreCompileInputs.cache
+G:\•Р•А•Б•О•Т•А•\• A • M • i • C • O •-\!_ОБУЧЕНИЕ\Знакомство с языками программирования (лекции)\Файлы\Examples\Examples-06_Giri\obj\Debug\net6.0\Examples-06_Giri.dll
+G:\•Р•А•Б•О•Т•А•\• A • M • i • C • O •-\!_ОБУЧЕНИЕ\Знакомство с языками программирования (лекции)\Файлы\Examples\Examples-06_Giri\obj\Debug\net6.0\refint\Examples-06_Giri.dll
+G:\•Р•А•Б•О•Т•А•\• A • M • i • C • O •-\!_ОБУЧЕНИЕ\Знакомство с языками программирования (лекции)\Файлы\Examples\Examples-06_Giri\obj\Debug\net6.0\Examples-06_Giri.pdb
+G:\•Р•А•Б•О•Т•А•\• A • M • i • C • O •-\!_ОБУЧЕНИЕ\Знакомство с языками программирования (лекции)\Файлы\Examples\Examples-06_Giri\obj\Debug\net6.0\Examples-06_Giri.genruntimeconfig.cache
+G:\•Р•А•Б•О•Т•А•\• A • M • i • C • O •-\!_ОБУЧЕНИЕ\Знакомство с языками программирования (лекции)\Файлы\Examples\Examples-06_Giri\obj\Debug\net6.0\ref\Examples-06_Giri.dll
