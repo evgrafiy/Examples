@@ -1,0 +1,15 @@
+G:\•Р•А•Б•О•Т•А•\• A • M • i • C • O •-\!_ОБУЧЕНИЕ\Знакомство с языками программирования (лекции)\Файлы\Examples\Example-05_Hello-User\bin\Debug\net6.0\Example-05_Hello-User.exe
+G:\•Р•А•Б•О•Т•А•\• A • M • i • C • O •-\!_ОБУЧЕНИЕ\Знакомство с языками программирования (лекции)\Файлы\Examples\Example-05_Hello-User\bin\Debug\net6.0\Example-05_Hello-User.deps.json
+G:\•Р•А•Б•О•Т•А•\• A • M • i • C • O •-\!_ОБУЧЕНИЕ\Знакомство с языками программирования (лекции)\Файлы\Examples\Example-05_Hello-User\bin\Debug\net6.0\Example-05_Hello-User.runtimeconfig.json
+G:\•Р•А•Б•О•Т•А•\• A • M • i • C • O •-\!_ОБУЧЕНИЕ\Знакомство с языками программирования (лекции)\Файлы\Examples\Example-05_Hello-User\bin\Debug\net6.0\Example-05_Hello-User.dll
+G:\•Р•А•Б•О•Т•А•\• A • M • i • C • O •-\!_ОБУЧЕНИЕ\Знакомство с языками программирования (лекции)\Файлы\Examples\Example-05_Hello-User\bin\Debug\net6.0\Example-05_Hello-User.pdb
+G:\•Р•А•Б•О•Т•А•\• A • M • i • C • O •-\!_ОБУЧЕНИЕ\Знакомство с языками программирования (лекции)\Файлы\Examples\Example-05_Hello-User\obj\Debug\net6.0\Example-05_Hello-User.csproj.AssemblyReference.cache
+G:\•Р•А•Б•О•Т•А•\• A • M • i • C • O •-\!_ОБУЧЕНИЕ\Знакомство с языками программирования (лекции)\Файлы\Examples\Example-05_Hello-User\obj\Debug\net6.0\Example-05_Hello-User.GeneratedMSBuildEditorConfig.editorconfig
+G:\•Р•А•Б•О•Т•А•\• A • M • i • C • O •-\!_ОБУЧЕНИЕ\Знакомство с языками программирования (лекции)\Файлы\Examples\Example-05_Hello-User\obj\Debug\net6.0\Example-05_Hello-User.AssemblyInfoInputs.cache
+G:\•Р•А•Б•О•Т•А•\• A • M • i • C • O •-\!_ОБУЧЕНИЕ\Знакомство с языками программирования (лекции)\Файлы\Examples\Example-05_Hello-User\obj\Debug\net6.0\Example-05_Hello-User.AssemblyInfo.cs
+G:\•Р•А•Б•О•Т•А•\• A • M • i • C • O •-\!_ОБУЧЕНИЕ\Знакомство с языками программирования (лекции)\Файлы\Examples\Example-05_Hello-User\obj\Debug\net6.0\Example-05_Hello-User.csproj.CoreCompileInputs.cache
+G:\•Р•А•Б•О•Т•А•\• A • M • i • C • O •-\!_ОБУЧЕНИЕ\Знакомство с языками программирования (лекции)\Файлы\Examples\Example-05_Hello-User\obj\Debug\net6.0\Example-05_Hello-User.dll
+G:\•Р•А•Б•О•Т•А•\• A • M • i • C • O •-\!_ОБУЧЕНИЕ\Знакомство с языками программирования (лекции)\Файлы\Examples\Example-05_Hello-User\obj\Debug\net6.0\refint\Example-05_Hello-User.dll
+G:\•Р•А•Б•О•Т•А•\• A • M • i • C • O •-\!_ОБУЧЕНИЕ\Знакомство с языками программирования (лекции)\Файлы\Examples\Example-05_Hello-User\obj\Debug\net6.0\Example-05_Hello-User.pdb
+G:\•Р•А•Б•О•Т•А•\• A • M • i • C • O •-\!_ОБУЧЕНИЕ\Знакомство с языками программирования (лекции)\Файлы\Examples\Example-05_Hello-User\obj\Debug\net6.0\Example-05_Hello-User.genruntimeconfig.cache
+G:\•Р•А•Б•О•Т•А•\• A • M • i • C • O •-\!_ОБУЧЕНИЕ\Знакомство с языками программирования (лекции)\Файлы\Examples\Example-05_Hello-User\obj\Debug\net6.0\ref\Example-05_Hello-User.dll
