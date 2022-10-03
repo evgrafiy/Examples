@@ -1,0 +1,15 @@
+G:\•Р•А•Б•О•Т•А•\• A • M • i • C • O •-\!_ОБУЧЕНИЕ\Знакомство с языками программирования (лекции)\Файлы\Examples\Eample-04_div\obj\Debug\net6.0\Eample-04_div.csproj.AssemblyReference.cache
+G:\•Р•А•Б•О•Т•А•\• A • M • i • C • O •-\!_ОБУЧЕНИЕ\Знакомство с языками программирования (лекции)\Файлы\Examples\Eample-04_div\obj\Debug\net6.0\Eample-04_div.GeneratedMSBuildEditorConfig.editorconfig
+G:\•Р•А•Б•О•Т•А•\• A • M • i • C • O •-\!_ОБУЧЕНИЕ\Знакомство с языками программирования (лекции)\Файлы\Examples\Eample-04_div\obj\Debug\net6.0\Eample-04_div.AssemblyInfoInputs.cache
+G:\•Р•А•Б•О•Т•А•\• A • M • i • C • O •-\!_ОБУЧЕНИЕ\Знакомство с языками программирования (лекции)\Файлы\Examples\Eample-04_div\obj\Debug\net6.0\Eample-04_div.AssemblyInfo.cs
+G:\•Р•А•Б•О•Т•А•\• A • M • i • C • O •-\!_ОБУЧЕНИЕ\Знакомство с языками программирования (лекции)\Файлы\Examples\Eample-04_div\obj\Debug\net6.0\Eample-04_div.csproj.CoreCompileInputs.cache
+G:\•Р•А•Б•О•Т•А•\• A • M • i • C • O •-\!_ОБУЧЕНИЕ\Знакомство с языками программирования (лекции)\Файлы\Examples\Eample-04_div\bin\Debug\net6.0\Eample-04_div.exe
+G:\•Р•А•Б•О•Т•А•\• A • M • i • C • O •-\!_ОБУЧЕНИЕ\Знакомство с языками программирования (лекции)\Файлы\Examples\Eample-04_div\bin\Debug\net6.0\Eample-04_div.deps.json
+G:\•Р•А•Б•О•Т•А•\• A • M • i • C • O •-\!_ОБУЧЕНИЕ\Знакомство с языками программирования (лекции)\Файлы\Examples\Eample-04_div\bin\Debug\net6.0\Eample-04_div.runtimeconfig.json
+G:\•Р•А•Б•О•Т•А•\• A • M • i • C • O •-\!_ОБУЧЕНИЕ\Знакомство с языками программирования (лекции)\Файлы\Examples\Eample-04_div\bin\Debug\net6.0\Eample-04_div.dll
+G:\•Р•А•Б•О•Т•А•\• A • M • i • C • O •-\!_ОБУЧЕНИЕ\Знакомство с языками программирования (лекции)\Файлы\Examples\Eample-04_div\bin\Debug\net6.0\Eample-04_div.pdb
+G:\•Р•А•Б•О•Т•А•\• A • M • i • C • O •-\!_ОБУЧЕНИЕ\Знакомство с языками программирования (лекции)\Файлы\Examples\Eample-04_div\obj\Debug\net6.0\Eample-04_div.dll
+G:\•Р•А•Б•О•Т•А•\• A • M • i • C • O •-\!_ОБУЧЕНИЕ\Знакомство с языками программирования (лекции)\Файлы\Examples\Eample-04_div\obj\Debug\net6.0\refint\Eample-04_div.dll
+G:\•Р•А•Б•О•Т•А•\• A • M • i • C • O •-\!_ОБУЧЕНИЕ\Знакомство с языками программирования (лекции)\Файлы\Examples\Eample-04_div\obj\Debug\net6.0\Eample-04_div.pdb
+G:\•Р•А•Б•О•Т•А•\• A • M • i • C • O •-\!_ОБУЧЕНИЕ\Знакомство с языками программирования (лекции)\Файлы\Examples\Eample-04_div\obj\Debug\net6.0\Eample-04_div.genruntimeconfig.cache
+G:\•Р•А•Б•О•Т•А•\• A • M • i • C • O •-\!_ОБУЧЕНИЕ\Знакомство с языками программирования (лекции)\Файлы\Examples\Eample-04_div\obj\Debug\net6.0\ref\Eample-04_div.dll
